@@ -1,0 +1,188 @@
+[
+  {
+    "id" : "0",
+    "name" : "All",
+    "registry" : "Aug 20, 2019",
+    "district" : "Biyagama",
+    "image" : "",
+    "usage" : "30",
+    "activity" : "5 hours ago",
+    "dataBar": {
+      "labels": ["July", "August", "September", "October", "November", "December"],
+      "datasets": [
+        {
+          "label": "LKR Income",
+          "data": [1000, 3000, 20000, 8000, 5000, 0],
+          "backgroundColor": [
+            "rgba(255, 134,159,0.4)",
+            "rgba(98,  182, 239,0.4)",
+            "rgba(255, 218, 128,0.4)",
+            "rgba(113, 205, 205,0.4)",
+            "rgba(170, 128, 252,0.4)",
+            "rgba(255, 177, 101,0.4)"
+          ],
+          "borderWidth": 2,
+          "borderColor": [
+            "rgba(255, 134, 159, 1)",
+            "rgba(98,  182, 239, 1)",
+            "rgba(255, 218, 128, 1)",
+            "rgba(113, 205, 205, 1)",
+            "rgba(170, 128, 252, 1)",
+            "rgba(255, 177, 101, 1)"
+          ]
+        }
+      ]
+    },
+    "barChartOptions": {
+      "responsive": true,
+      "maintainAspectRatio": false,
+      "scales": {
+        "xAxes": [
+          {
+            "barPercentage": 1,
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            }
+          }
+        ],
+        "yAxes": [
+          {
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            },
+            "ticks": {
+              "beginAtZero": true
+            }
+          }
+        ]
+      }
+    }
+  },
+
+  {
+    "id" : "1",
+    "name" : "Pasindu Sandaruwan",
+    "registry" : "Aug 20, 2019",
+    "district" : "Biyagama",
+    "image" : "./images/Car_1920x1080.jpg",
+    "usage" : "30",
+    "activity" : "5 hours ago",
+    "dataBar": {
+      "labels": ["July", "August", "September", "October", "November", "December"],
+      "datasets": [
+        {
+          "label": "LKR Income",
+          "data": [5000, 10000, 6000, 10000, 1000, 0],
+          "backgroundColor": [
+            "rgba(255, 134,159,0.4)",
+            "rgba(98,  182, 239,0.4)",
+            "rgba(255, 218, 128,0.4)",
+            "rgba(113, 205, 205,0.4)",
+            "rgba(170, 128, 252,0.4)",
+            "rgba(255, 177, 101,0.4)"
+          ],
+          "borderWidth": 2,
+          "borderColor": [
+            "rgba(255, 134, 159, 1)",
+            "rgba(98,  182, 239, 1)",
+            "rgba(255, 218, 128, 1)",
+            "rgba(113, 205, 205, 1)",
+            "rgba(170, 128, 252, 1)",
+            "rgba(255, 177, 101, 1)"
+          ]
+        }
+      ]
+    },
+    "barChartOptions": {
+      "responsive": true,
+      "maintainAspectRatio": false,
+      "scales": {
+        "xAxes": [
+          {
+            "barPercentage": 1,
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            }
+          }
+        ],
+        "yAxes": [
+          {
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            },
+            "ticks": {
+              "beginAtZero": true
+            }
+          }
+        ]
+      }
+    }
+  },
+
+
+  {
+    "id" : "1",
+    "name" : "Ganesh Nayanajith",
+    "registry" : "Sep 10, 2019",
+    "district" : "Colombo",
+    "image" : "./images/1920x1080_january-post-01-Copy-min.jpg",
+    "usage" : "32",
+    "activity" : "1 day ago",
+    "dataBar": {
+      "labels": ["July", "August", "September", "October", "November", "December"],
+      "datasets": [
+        {
+          "label": "LKR Income",
+          "data": [2000, 10000, 12000, 20000, 1000, 0],
+          "backgroundColor": [
+            "rgba(255, 134,159,0.4)",
+            "rgba(98,  182, 239,0.4)",
+            "rgba(255, 218, 128,0.4)",
+            "rgba(113, 205, 205,0.4)",
+            "rgba(170, 128, 252,0.4)",
+            "rgba(255, 177, 101,0.4)"
+          ],
+          "borderWidth": 2,
+          "borderColor": [
+            "rgba(255, 134, 159, 1)",
+            "rgba(98,  182, 239, 1)",
+            "rgba(255, 218, 128, 1)",
+            "rgba(113, 205, 205, 1)",
+            "rgba(170, 128, 252, 1)",
+            "rgba(255, 177, 101, 1)"
+          ]
+        }
+      ]
+    },
+    "barChartOptions": {
+      "responsive": true,
+      "maintainAspectRatio": false,
+      "scales": {
+        "xAxes": [
+          {
+            "barPercentage": 1,
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            }
+          }
+        ],
+        "yAxes": [
+          {
+            "gridLines": {
+              "display": true,
+              "color": "rgba(0, 0, 0, 0.1)"
+            },
+            "ticks": {
+              "beginAtZero": true
+            }
+          }
+        ]
+      }
+    }
+  }
+]
